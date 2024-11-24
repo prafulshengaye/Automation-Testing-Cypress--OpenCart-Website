@@ -122,7 +122,7 @@ If you would like to contribute to this project, follow these steps:
 If you have any questions, feel free to contact me:
 
 - **Name**: Praful Shengaye
-- **GitHub**:
+- **GitHub**:[https://github.com/prafulshengaye]
 
 
 ---
