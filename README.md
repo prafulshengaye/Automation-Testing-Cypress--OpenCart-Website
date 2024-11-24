@@ -36,7 +36,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/prafulshengaye/https://github.com/prafulshengaye/constructWeekProject
+git clone https://github.com/prafulshengaye/Automation-Testing-Cypress--OpenCart-Website
 
 
 ### 2. Install Dependencies
@@ -122,7 +122,7 @@ If you would like to contribute to this project, follow these steps:
 If you have any questions, feel free to contact me:
 
 - **Name**: Praful Shengaye
-- **GitHub**: [https://github.com/prafulshengaye/constructWeekProject])
+- **GitHub**:
 
 
 ---
